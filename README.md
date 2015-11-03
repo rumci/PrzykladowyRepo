@@ -1,1 +1,2 @@
-Hello GIT!
+Hello GIT! 
+To moja pierwsza zmiana w pliku :)
